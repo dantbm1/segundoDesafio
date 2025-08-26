@@ -2,7 +2,7 @@ public class App {
 
     public static void main(String[] args) {   
 
-        int vitorias = 15;
+        int vitorias = 100;
         int derrotas = 20;
 
         int saldo = calcularSaldo(vitorias, derrotas);
